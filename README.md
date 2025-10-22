@@ -1,6 +1,6 @@
 <div align="center">
   <h1>¡Hola! Soy Joel Hernández</h1>
-  <h3>Desarrollador Fullstack</h3>
+  <h2>Desarrollador Fullstack</h2>
 </div>
 
 ---
