@@ -71,7 +71,8 @@ const aboutJoel = {
     toolsAndDesign: ["Git", "VSCode", "IntelliJ", "PyCharm", "UX/UI Design"],
   },
   challenge:
-    "I am working to master backend development and build incredible projects... Although I can also venture a bit into fullstack development, since I don't mind frontend",
+    "I am working to master backend development and build incredible projects...
+      Although I can also venture a bit into fullstack development, since I don't mind frontend",
   hobbies: [
     "Playing with my daughter, spending time with her, in general, living for her",
     "Programming",
