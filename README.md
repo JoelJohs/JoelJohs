@@ -39,40 +39,36 @@ I don't really know how to talk about myself, I only know how to say that I like
 
 ```javascript
 const aboutJoel = {
-  pronouns: "he/him",
-  nickname: "Jojo",
-  yearOfBirth: 1998,
-  nationality: "Mexican",
-  location: "Morelia, Michoacán, Mexico",
-  languages: {
-    Spanish: "Native",
-    English: "Intermediate-Advanced (still improving)",
-    French: "None (but I'd love to learn)",
-    Japanese: "Same as above (but I think I know at least 2 words)",
+  "pronouns": "he/him",
+  "nickname": "Jojo",
+  "birthday": {
+    "day": "21",
+    "month": "05",
+    "year": "1998"
   },
-  currentOccupation: ["Fullstack Developer", "Open to opportunities"],
-  programmingLanguages: [
-    "TypeScript",
-    "JavaScript",
-    "Python",
-    "Java",
-    "C#",
-    "PHP",
-  ],
-  technologies: {
-    frontend: ["React", "Next.js", "Astro", "Vite", "TailwindCSS"],
-    backend: {
-      node: ["NestJS", "Express.js"],
-      python: ["Django"],
-      orm: ["Prisma"],
+  "nationality": "Mexican",
+  "location": "Morelia, Michoacán, Mexico",
+  "languages": {
+    "Spanish": "Native",
+    "English": "Intermediate-Advanced (still improving)",
+    "French": "None (but I'd love to learn!)",
+    "Japanese": "Same as above (but I think I know at least 2 words)"
+  },
+  "currentOccupation": ["Fullstack Developer", "Open to opportunities"],
+  "programmingLanguages": ["TypeScript", "JavaScript", "Python", "Java", "C#", "PHP"],
+  "technologies": {
+    "frontend": ["React", "Next.js", "Astro", "Vite", "TailwindCSS"],
+    "backend": {
+      "node": ["NestJS", "Express.js"],
+      "python": ["Django"],
+      "orm": ["Prisma"]
     },
-    architectureAndApis: ["REST APIs", "GraphQL", "JWT"],
-    databases: ["PostgreSQL", "MySQL", "MongoDB"],
-    toolsAndDesign: ["Git", "VSCode", "IntelliJ", "PyCharm", "UX/UI Design"],
+    "architectureAndApis": ["REST APIs", "GraphQL", "JWT"],
+    "databases": ["PostgreSQL", "MySQL", "MongoDB"],
+    "toolsAndDesign": ["Git", "VSCode", "IntelliJ", "PyCharm", "UX/UI Design"]
   },
-  challenge:
-    "I am working to master backend development and build incredible projects... Although I can also venture a bit into fullstack development, since I don't mind frontend",
-  hobbies: [
+  "challenge": "I am working to master backend development and build incredible projects... Although I can also venture a bit into fullstack development, since I don't mind frontend",
+  "hobbies": [
     "Playing with my daughter, spending time with her, in general, living for her",
     "Programming",
     "Learning new technologies",
@@ -83,9 +79,9 @@ const aboutJoel = {
     "Writing",
     "Reading",
     "Working out",
-    "Trying (and failing) to tire out my dog",
-  ],
-};
+    "Trying (and failing) to tire out my dog"
+  ]
+}
 
 ```
 
